@@ -1,0 +1,267 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dark",
+				"darkOrange"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "library/scss/_grid.scss",
+			"settings":
+			{
+				"buffer_size": 1985,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 313.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: acf-gallery"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Snippet: acf",
+				"Snippet: <?php foreach (…) … <?php endforeach ?>"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"fetc",
+				"Fetch"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/functions.php",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/library/scss/_base.scss",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-config.php",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/test-slide.html",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/test-fade.html",
+		"/Users/hal/Documents/ArtFiles/web/Locality/remuda/wp-content/themes/remudarun/front-page.php",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/library/js/libs/picturefill.js",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/library/css/style.css",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/config.rb",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/library/scss/ie.scss",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/library/scss/style.scss",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/library/scss/login.scss",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/library/admin.php",
+		"/Users/hal/Library/Application Support/Sublime Text 2/Packages/XML/comment.sublime-snippet",
+		"/Users/hal/Library/Application Support/Sublime Text 2/Packages/User/acf-gallery.sublime-snippet",
+		"/Users/hal/Library/Application Support/Sublime Text 2/Packages/User/acfgallery.sublime-snippet",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-config-sample.php",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/sftp-config.json",
+		"/Users/hal/Library/Application Support/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/copper-city",
+		"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/index.php",
+		"/var/folders/12/6dlmqvld4vj7hs0hmyb7tdyc0000gn/T/sublime-sftp-browse-1348076531/mapped/wp-content/themes/fstop-1.2/.htaccess",
+		"/var/folders/12/6dlmqvld4vj7hs0hmyb7tdyc0000gn/T/sublime-sftp-browse-1348073815/mapped/.htaccess",
+		"/Users/hal/Downloads/advanced-post-types-order/include/functions.php",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/library/scss/_fonts.scss",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/library/scss/responsive-carousel-pagination.scss",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/front-page-slider.php",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/config.rb",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/library/css/style.css",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/library/scss/style.scss",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-config.php",
+		"/Users/hal/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/header.php",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/library/bones.php",
+		"/var/folders/12/6dlmqvld4vj7hs0hmyb7tdyc0000gn/T/sublime-sftp-browse-1346012247/mapped/wp-content/themes/fstop-1.2/front-page.php",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/sftp-config.json",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/library/scss/_768up.scss",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/library/scss/_481up.scss",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/library/scss/_base.scss",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/library/js/scripts-ck.js",
+		"/Users/hal/Documents/ArtFiles/web/Locality/fstop/wp-content/themes/fstop-1.2/front-page.php",
+		"/Users/hal/Downloads/woothemes-FlexSlider-a9168b8/jquery.flexslider-min.js",
+		"/Users/hal/Library/Caches/Cleanup At Startup/Transmit/C7B7866B-9499-4D37-A8C3-9FB3F4630B11/wp-config.php",
+		"/Users/hal/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/hal/Documents/ArtFiles/web/Locality/coppercity/wp-content/themes/coppercity/library/scss",
+			"/Users/hal/Documents/ArtFiles/web/Locality/ht-pet/wp-content/plugins/store-locator-le,/Users/hal/Downloads/advanced-post-types-order"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"extend",
+			".flex",
+			".flexslider",
+			"flex-active-slide",
+			"bones-matchmedia",
+			"extend ",
+			"www.nsp-code.com",
+			"IcoMoon",
+			"10.0.1.17",
+			"localhost",
+			"include"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "library/scss/_grid.scss",
+					"settings":
+					{
+						"buffer_size": 1985,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/Syntaxes/SCSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 114.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 376.0,
+	"status_bar_visible": true
+}
