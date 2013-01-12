@@ -1,5 +1,4 @@
 # Require any additional compass plugins here.
-require '/Library/Ruby/Gems/1.8/gems/susy-1.0/lib/susy.rb'
 require '/Library/Ruby/Gems/1.8/gems/compass-rgbapng-0.1.1/lib/rgbapng.rb'
 
 # Set this to the root of your project when deployed:
